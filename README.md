@@ -5,4 +5,4 @@ All of my portfolio projects are here.
 
 ### 2. Data Cleaning Using SQL
 
-## 3. Excel
+### 3. Excel
