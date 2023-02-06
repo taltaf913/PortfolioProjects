@@ -21,7 +21,8 @@ converting certain variables into more useful formats and removing any duplicate
 The prepared data was analyzed using Power BI to create visualizations and reports. The visualizations were 
 created to answer the following topics:
 
-**Highest paying jobs in the data industry?**
+**Highest paying jobs in the data industry**
+<br>
 ![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Titile.png)
 
 **Most important things employees look for on a job**
