@@ -25,13 +25,13 @@ created to answer the following topics:
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/> <br><br>
 
 **2. Most important things employees look for on a job** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.2-Most%20Important%20Thing%20on%20a%20Job.png" alt="" style="height: 500px; width:800px;"/> <br><br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.2-Most%20Important%20Thing%20on%20a%20Job.png" alt="" style="height: 500px; width:750px;"/> <br><br>
 
 **3. Most favourite programming language** <br><br>
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.3-Favourite%20Programming%20Language.png" alt="" style="height: 500px; width:700px;"/> <br><br>
 
 **4. Level of education of employees** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.4-Level%20of%20Education.png" alt="" style="height: 500px; width:700px;"/> <br><br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.4-Level%20of%20Education.png" alt="" style="height: 500px; width:750px;"/> <br><br>
 
 **5. Average salary by current age** <br><br>
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.4-Level%20of%20Education.png" alt="" style="height: 500px; width:700px;"/> <br><br>
