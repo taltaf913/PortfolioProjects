@@ -27,12 +27,16 @@ created to answer the following topics:
 
 **3. Most favourite programming language**
 
-**4. Level of Education of employees**
+**4. Level of education of employees**
 
 **5. Average salary by current age**
 
-**6. Ethnicity Percentage**
+**6. Ethnicity percentage**
 
 **7. Difficulty breaking into data**
 
-**8. Did you switch careers?**
+**8. Career switch from another sector**
+
+**9. Happiness**
+
+**10. Male/Female difference**
