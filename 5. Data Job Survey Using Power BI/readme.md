@@ -34,7 +34,7 @@ created to answer the following topics:
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.4-Level%20of%20Education.png" alt="" style="height: 500px; width:750px;"/> <br><br>
 
 **5. Average salary by current age** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.4-Level%20of%20Education.png" alt="" style="height: 500px; width:700px;"/> <br><br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.5-Average%20Salary%20by%20Current%20Age.png" alt="" style="height: 500px; width:700px;"/> <br><br>
 
 **6. Ethnicity percentage** <br><br>
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.6-Ethnicity%20Percentage.png" alt="" style="height: 500px; width:700px;"/> <br><br>
