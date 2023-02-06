@@ -21,6 +21,8 @@ converting certain variables into more useful formats and removing any duplicate
 The prepared data was analyzed using Power BI to create visualizations and reports. The visualizations were 
 created to answer the following topics:
 
+<font size="3">
+  
 **1. Highest paying jobs in the data industry** <br><br>
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/> <br><br>
 
@@ -49,4 +51,6 @@ created to answer the following topics:
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/2-Happiness.png" alt="" style="height: 500px; width:900px;"/> <br><br>
 
 **10. Male/Female difference** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/3-Male_Female.png" alt="" style="height: 500px; width:900px;"/> <br><br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/3-Male_Female.png" alt="" style="height: 500px; width:1000px;"/> <br><br>
+
+</font>
