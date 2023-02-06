@@ -22,6 +22,7 @@ The prepared data was analyzed using Power BI to create visualizations and repor
 created to answer the following topics:
 
 **1. Highest paying jobs in the data industry**
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 100px; width:100px;"/>
 
 **2. Most important things employees look for on a job**
 
