@@ -18,26 +18,30 @@ The collected data was cleaned and prepared for analysis by removing any missing
 converting certain variables into more useful formats and removing any duplicates.
 
 ### Data Analysis and Visualization:
-Here are the dashboards:
-![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/1-Primary.png)
-![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/2-Happiness.png)
-![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/3-Male_Female.png)
-
+The prepared data was analyzed using Power BI to create visualizations and reports. The visualizations were 
+created to answer the following topics:
 
 **1. Highest paying jobs in the data industry**
 <br>
 ![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Titile.png)
 
 **Most important things employees look for on a job**
+![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.2-Most%20Important%20Thing%20on%20a%20Job.png)
 
 **Most favourite programming language**
+![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.3-Favourite%20Programming%20Language.png)
 
 **Level of Education of employees**
+![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.4-Level%20of%20Education.png)
 
 **Average salary by current age**
+![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.5-Average%20Salary%20by%20Current%20Age.png)
 
 **Ethnicity Percentage**
+![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.6-Ethnicity%20Percentage.png)
 
 **Difficulty breaking into data**
+![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.7-Difficulty%20Breaking%20into%20Data.png)
 
 **Did you switch careers?**
+![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.8-Switch%20Careers%20in%20Data.png)
