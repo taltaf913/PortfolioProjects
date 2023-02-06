@@ -24,29 +24,29 @@ created to answer the following topics:
 ### 1. Highest paying jobs in the data industry
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/>
 
-### 2. Most important things employees look for on a job <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.2-Most%20Important%20Thing%20on%20a%20Job.png" alt="" style="height: 500px; width:750px;"/> <br><br>
+### 2. Most important things employees look for on a job
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.2-Most%20Important%20Thing%20on%20a%20Job.png" alt="" style="height: 500px; width:750px;"/>
 
-**3. Most favourite programming language** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.3-Favourite%20Programming%20Language.png" alt="" style="height: 500px; width:700px;"/> <br><br>
+### 3. Most favourite programming language
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.3-Favourite%20Programming%20Language.png" alt="" style="height: 500px; width:700px;"/> 
 
-**4. Level of education of employees** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.4-Level%20of%20Education.png" alt="" style="height: 500px; width:750px;"/> <br><br>
+### 4. Level of education of employees
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.4-Level%20of%20Education.png" alt="" style="height: 500px; width:750px;"/> 
 
-**5. Average salary by current age** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.5-Average%20Salary%20by%20Current%20Age.png" alt="" style="height: 500px; width:700px;"/> <br><br>
+### 5. Average salary by current age
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.5-Average%20Salary%20by%20Current%20Age.png" alt="" style="height: 500px; width:700px;"/> 
 
-**6. Ethnicity percentage** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.6-Ethnicity%20Percentage.png" alt="" style="height: 500px; width:750px;"/> <br><br>
+### 6. Ethnicity percentage
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.6-Ethnicity%20Percentage.png" alt="" style="height: 500px; width:750px;"/> 
 
-**7. Difficulty breaking into data** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.7-Difficulty%20Breaking%20into%20Data.png" alt="" style="height: 500px; width:700px;"/> <br><br>
+### 7. Difficulty breaking into data
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.7-Difficulty%20Breaking%20into%20Data.png" alt="" style="height: 500px; width:700px;"/> 
 
-**8. Career switch from another sector** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.8-Switch%20Careers%20into%20Data.png" alt="" style="height: 500px; width:715px;"/> <br><br>
+### 8. Career switch from another sector
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.8-Switch%20Careers%20into%20Data.png" alt="" style="height: 500px; width:715px;"/> 
 
-**9. Happiness** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/2-Happiness.png" alt="" style="height: 500px; width:900px;"/> <br><br>
+### 9. Happiness
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/2-Happiness.png" alt="" style="height: 500px; width:900px;"/> 
 
-**10. Male/Female difference** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/3-Male_Female.png" alt="" style="height: 500px; width:1000px;"/> <br><br>
+### 10. Male/Female difference
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/3-Male_Female.png" alt="" style="height: 500px; width:1000px;"/> 
