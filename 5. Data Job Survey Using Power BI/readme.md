@@ -23,3 +23,4 @@ created to answer the following questions:
 
 **1. What are the highest paying jobs in the data industry?**
 
+![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Titile.png)
