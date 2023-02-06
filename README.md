@@ -1,7 +1,7 @@
 # Portfolio Projects
 All of my portfolio projects are here.
 
-[link](### 1. Data Exploration Using SQL)
+### 1. Data Exploration Using SQL
 
 ### 2. Data Cleaning Using SQL
 
