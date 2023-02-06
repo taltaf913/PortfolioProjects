@@ -20,3 +20,6 @@ converting certain variables into more useful formats and removing any duplicate
 ### Data Analysis and Visualization:
 The prepared data was analyzed using Power BI to create visualizations and reports. The visualizations were 
 created to answer the following questions:
+
+**1. What are the highest paying jobs in the data industry?**
+
