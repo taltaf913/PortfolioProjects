@@ -8,6 +8,6 @@ the highest paying jobs and related information in the data industry. The data c
 and reports using the Power BI tool.
 
 ### Data Collection:
-The data was collected by alex freberg. Link:
+The data was collected by [link](https://www.youtube.com/@AlexTheAnalyst)
 The survey consisted of questions related to job title, salary, years of experience, and various technical skills. A total 
 of 630 responses were collected and analyzed for this project.
