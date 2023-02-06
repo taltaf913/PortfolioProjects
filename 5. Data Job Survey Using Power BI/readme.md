@@ -23,7 +23,7 @@ created to answer the following topics:
 
 **1. Highest paying jobs in the data industry**
 <br>
-![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Titile.png)
+![link width=100](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Titile.png)
 
 **Most important things employees look for on a job**
 ![link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.2-Most%20Important%20Thing%20on%20a%20Job.png)
