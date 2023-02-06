@@ -37,16 +37,16 @@ created to answer the following topics:
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.5-Average%20Salary%20by%20Current%20Age.png" alt="" style="height: 500px; width:700px;"/> <br><br>
 
 **6. Ethnicity percentage** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.6-Ethnicity%20Percentage.png" alt="" style="height: 500px; width:700px;"/> <br><br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.6-Ethnicity%20Percentage.png" alt="" style="height: 500px; width:750px;"/> <br><br>
 
 **7. Difficulty breaking into data** <br><br>
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.7-Difficulty%20Breaking%20into%20Data.png" alt="" style="height: 500px; width:700px;"/> <br><br>
 
 **8. Career switch from another sector** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.8-Switch%20Careers%20into%20Data.png" alt="" style="height: 500px; width:700px;"/> <br><br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.8-Switch%20Careers%20into%20Data.png" alt="" style="height: 500px; width:7150px;"/> <br><br>
 
 **9. Happiness** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/2-Happiness.png" alt="" style="height: 500px; width:700px;"/> <br><br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/2-Happiness.png" alt="" style="height: 500px; width:800px;"/> <br><br>
 
 **10. Male/Female difference** <br><br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/3-Male_Female.png" alt="" style="height: 500px; width:700px;"/> <br><br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/3-Male_Female.png" alt="" style="height: 500px; width:800px;"/> <br><br>
