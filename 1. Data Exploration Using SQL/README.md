@@ -50,6 +50,6 @@ The prepared data was analyzed using MSSMS (Microsoft SQL Server Management Stud
 
 ### 8.Which is the best decade for great films?
 <br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/1.%20Data%20Exploration%20Using%20SQL/Visualization/8.%20Which%20is%20the%20best%20decade%20for%20great%20films.png" alt="" style="height: 150px; width:750px;"/>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/1.%20Data%20Exploration%20Using%20SQL/Visualization/8.%20Which%20is%20the%20best%20decade%20for%20great%20films.png" alt="" style="height: 100px; width:850px;"/>
 <br><br>
 
