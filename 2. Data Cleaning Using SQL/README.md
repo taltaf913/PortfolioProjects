@@ -6,12 +6,21 @@
 This project aims to clean and prepare a random datatset.
 
 ### Data Collection:
-The data was collected from Kaggle.
+The data was collected from Kaggle. <br>
 Download Project Dataset : <https://www.kaggle.com/datasets/cityapiio/world-cities-air-quality-and-water-polution> <br><br>
 
 
 ### Data Cleaning and Preparation:
-<br>
-Steps taken to clean this dataset:
+Steps taken to clean and prepare this dataset:
+
+**1. Selected everything from the dataset to get a overview of the dataset.**
+
+**2. Renamed the column names appropriately.**
+
+**3. Checked for duplicate values using several techniques.**
+
+**4. Rounded airquality and waterpollution column's values to two decimal place.**
+
+**5. Tried to remove "" from region, country but couldn't find the right way.**
 
 
