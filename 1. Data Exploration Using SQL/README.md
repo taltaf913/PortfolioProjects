@@ -14,4 +14,35 @@ converting certain variables into more useful formats and removing any duplicate
 The prepared data was analyzed using MSSMS (Microsoft SQL Server Management Studio) to answer the following questions:
 
 ### 1. Which studio has the most films?
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/1.%20Data%20Exploration%20Using%20SQL/Visualization/1.%20Which%20studio%20has%20the%20most%20films.png" alt="" style="height: 400px; width:400px;"/>
+<br><br>
+
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/>
+<br><br>
+
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/>
+<br><br>
+
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/>
+<br><br>
+
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/>
+<br><br>
+
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/>
+<br><br>
+
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/>
+<br><br>
+
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/>
+<br><br>
 
