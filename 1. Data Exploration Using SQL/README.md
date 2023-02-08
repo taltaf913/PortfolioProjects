@@ -40,13 +40,15 @@ The prepared data was analyzed using MSSMS (Microsoft SQL Server Management Stud
 
 ### 6.Average runtime of a movie
 <br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/1.%20Data%20Exploration%20Using%20SQL/Visualization/6.%20Average%20runtime%20of%20films.png" alt="" style="height: 250px; width:200px;"/>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/1.%20Data%20Exploration%20Using%20SQL/Visualization/6.%20Average%20runtime%20of%20films.png" alt="" style="height: 150px; width:200px;"/>
 <br><br>
 
+### 7.Which year is the best year for great films?
 <br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/1.%20Data%20Exploration%20Using%20SQL/Visualization/7.%20Which%20year%20is%20the%20best%20year%20for%20great%20films.png" alt="" style="height: 400px; width:200px;"/>
 <br><br>
 
+### 8.Which is the best decade for great films?
 <br>
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/5.%20Data%20Job%20Survey%20Using%20Power%20BI/Visualization/4.1-Average%20Salary%20by%20Job%20Title.png" alt="" style="height: 500px; width:700px;"/>
 <br><br>
