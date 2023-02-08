@@ -3,9 +3,8 @@
 ## Report Name : Data Job Survey
 
 ### Introduction:
-This project aims to analyze data collected from a survey to determine the most in-demand job skills, the highest paying <br>
-jobs and related information in the data industry. The data collected was used to create interactive visualizations and <br>
-reports using the Power BI tool.
+This project aims to analyze data collected from the IMDB Top 250 movies to answer the questtion <br>
+**What makes a movie so great that it has it's place in IMDB 250?**
 
 ### Data Collection:
 The data was collected by [Alex Freberg](https://www.youtube.com/@AlexTheAnalyst), a famous Data Analyst/Youtuber. <br>
