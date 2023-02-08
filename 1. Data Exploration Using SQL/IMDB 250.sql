@@ -61,43 +61,43 @@ select
 sum(case
  when Year between 1920 and 1929 then 1
  else 0
-end) as '20-29',
+end) as '1920-1929',
 sum(case
  when Year between 1930 and 1939 then 1
  else 0
-end) as '30-39',
+end) as '1930-1939',
 sum(case
  when Year between 1940 and 1949 then 1
  else 0
-end) as '40-49',
+end) as '1940-1949',
 sum(case
  when Year between 1950 and 1959 then 1
  else 0
-end) as '50-59',
+end) as '1950-1959',
 sum(case
  when Year between 1960 and 1969 then 1
  else 0
-end) as '60-69',
+end) as '1960-1969',
 sum(case
  when Year between 1970 and 1979 then 1
  else 0
-end) as '70-79',
+end) as '1970-1979',
 sum(case
  when Year between 1980 and 1989 then 1
  else 0
-end) as '80-89',
+end) as '1980-1989',
 sum(case
  when Year between 1990 and 1999 then 1
  else 0
-end) as '90-99',
+end) as '1990-1999',
 sum(case
  when Year between 2000 and 2009 then 1
  else 0
-end) as '00-09',
+end) as '2000-2009',
 sum(case
  when Year between 2010 and 2019 then 1
  else 0
-end) as '10-19'
+end) as '2010-2019'
 from IMDB_250
 
 
