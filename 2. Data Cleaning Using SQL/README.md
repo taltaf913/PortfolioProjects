@@ -26,6 +26,6 @@ Steps taken to clean and prepare this dataset:
 
 **5. Tried to remove "" from region, country but couldn't find the right way.**
 
-[link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/2.%20Data%20Cleaning%20Using%20SQL/Data%20Cleaning%20in%20SQL.sql)
+[SQL Code link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/2.%20Data%20Cleaning%20Using%20SQL/Data%20Cleaning%20in%20SQL.sql)
 
 
