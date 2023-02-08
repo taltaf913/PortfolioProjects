@@ -7,7 +7,7 @@ This project aims to clean and prepare a random datatset.
 
 ### Data Collection:
 The data was collected from Kaggle. <br>
-Download Project Dataset : <https://www.kaggle.com/datasets/cityapiio/world-cities-air-quality-and-water-polution> <br>
+* Download Project Dataset : <https://www.kaggle.com/datasets/cityapiio/world-cities-air-quality-and-water-polution> <br>
 
 Data was initially taken from Numbeo as an aggregation of user voting. <br>
 * **Air quality** varies from 0 (bad quality) to 100 (top good quality) <br>
