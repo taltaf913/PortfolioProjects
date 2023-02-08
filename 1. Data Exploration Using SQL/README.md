@@ -3,7 +3,7 @@
 ## Report Name : Data Job Survey
 
 ### Introduction:
-This project aims to analyze data collected from the IMDB Top 250 movies to answer the questtion <br><br>
+This project aims to analyze data collected from the IMDB Top 250 movies to answer the questtion- <br>
 **What makes a movie so great that it has it's place in IMDB 250?**
 
 ### Data Collection:
