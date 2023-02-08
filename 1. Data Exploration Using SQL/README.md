@@ -4,7 +4,7 @@
 
 ### Introduction:
 This project aims to analyze data collected from the IMDB Top 250 movies to answer the questtion-
-**What makes a movie so great that it has it's place in IMDB 250?**
+**"What makes a movie so great that it has it's place in IMDB 250?"**
 
 ### Data Cleaning and Preparation:
 The collected data was cleaned and prepared for analysis by removing any missing or irrelevant information. This involved <br>
