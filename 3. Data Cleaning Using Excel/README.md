@@ -1,7 +1,6 @@
 # Project Report
 
 ## Report Name : Data Cleaning Using Excel
-<br>
 
 ### Introduction:
 This project aims to clean and prepare a random datatset.
@@ -12,6 +11,7 @@ The data was collected from Kaggle. <br>
 * Download Project Dataset : <https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales> <br>
 
 Related information about the dataset can be found here : [Attribute Information](https://github.com/HasibulHayat/PortfolioProjects/blob/main/3.%20Data%20Cleaning%20Using%20Excel/Attribute%20Information.png)
+<br>
 
 ### Data Cleaning and Preparation:
 Steps taken to clean and prepare this dataset:
@@ -39,6 +39,7 @@ Steps taken to clean and prepare this dataset:
 **11. Extracted month from 'Date' column and deleted the 'Date' column.**
 
 [Excel Sheet link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/3.%20Data%20Cleaning%20Using%20Excel/Supermarket_Sales.xlsx)
+<br>
 
 ### Conclusion:
 After cleaning and preparing the data, I've created three pivot tables and three charts <br>
