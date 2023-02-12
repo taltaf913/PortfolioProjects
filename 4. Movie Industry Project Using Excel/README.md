@@ -29,7 +29,7 @@ Steps taken to clean and prepare this dataset:
 
 ### 1.Total Movies per Country
 <br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/1.%20Total%20Movies%20per%20Country.png" alt="" style="height: 350px; width:350px;"/>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/1.%20Total%20Movies%20per%20Country.png" alt="" style="height: 450px; width:550px;"/>
 <br><br>
 
 ### 2.Rating Comparison
