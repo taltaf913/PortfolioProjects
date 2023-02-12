@@ -25,7 +25,44 @@ Steps taken to clean and prepare this dataset:
 [Excel Sheet link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/movies.xlsx)
 <br>
 
-### Conclusion:
-After cleaning and preparing the data, I've created three pivot tables and three charts <br>
-only to found that the data is equally distributed. So, I've come to the conclusion that, <br>
-this is a fake dataset. That's the reason I've only cleaned it but didn't analayze it.
+### Data Analysis and Visualization:
+
+### 1.Total Movies per Country
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/1.%20Total%20Movies%20per%20Country.png" alt="" style="height: 400px; width:350px;"/>
+<br><br>
+
+### 2.Rating Comparison
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/2.%20Rating%20Comparison.png" alt="" style="height: 400px; width:350px;"/>
+<br><br>
+
+### 3.Gross Revenue per Company
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/3.%20Gross%20Revenue%20per%20Company.png" alt="" style="height: 400px; width:350px;"/>
+<br><br>
+
+### 4.Gross Revenue per Movie Star
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/4.%20Gross%20Revenue%20per%20Movie%20Star.png" alt="" style="height: 400px; width:350px;"/>
+<br><br>
+
+### 5.Total Movies per Genre
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/5.%20Total%20Movies%20per%20Genre.png" alt="" style="height: 400px; width:350px;"/>
+<br><br>
+
+### 6.Total Revenue per Genre
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/6.%20Total%20Revenue%20per%20Genre.png" alt="" style="height: 150px; width:200px;"/>
+<br><br>
+
+### 7.Total Budget per Genre
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/7.%20Total%20Budget%20per%20Genre.png" alt="" style="height: 400px; width:200px;"/>
+<br><br>
+
+### 8.Top 10 Rating that Makes the Most Revenue
+<br>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/8.%20Revenue%20%26%20Rating%20Comparison.png" alt="" style="height: 100px; width:850px;"/>
+<br><br>
