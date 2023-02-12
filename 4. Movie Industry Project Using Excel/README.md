@@ -62,7 +62,7 @@ Steps taken to clean and prepare this dataset:
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/7.%20Total%20Budget%20per%20Genre.png" alt="" style="height: 350px; width:500px;"/>
 <br><br>
 
-### 8.Top 10 Rating that Makes the Most Revenue
+### 8.Top 10 Rating that Made the Most Revenue
 <br>
 <img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/8.%20Revenue%20%26%20Rating%20Comparison.png" alt="" style="height: 400px; width:450px;"/>
 <br><br>
