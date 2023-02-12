@@ -7,11 +7,9 @@ This project aims to clean and prepare a random datatset.
 
 ### Data Collection:
 The data was collected from Kaggle. <br>
-* Download Project Dataset : <https://www.kaggle.com/datasets/cityapiio/world-cities-air-quality-and-water-polution> <br>
+* Download Project Dataset : <https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales> <br>
 
-Data was initially taken from Numbeo as an aggregation of user voting. <br>
-* **Air quality** varies from 0 (bad quality) to 100 (top good quality) <br>
-* **Water pollution** varies from 0 (no pollution) to 100 (extreme pollution)
+Related information about the dataset can be found here : <https://github.com/HasibulHayat/PortfolioProjects/blob/main/3.%20Data%20Cleaning%20Using%20Excel/Attribute%20Information.png>
 
 ### Data Cleaning and Preparation:
 Steps taken to clean and prepare this dataset:
