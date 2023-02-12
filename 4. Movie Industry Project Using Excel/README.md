@@ -34,7 +34,7 @@ Steps taken to clean and prepare this dataset:
 
 ### 2.Rating Comparison
 <br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/2.%20Rating%20Comparison.png" alt="" style="height: 375px; width:350px;"/>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/2.%20Rating%20Comparison.png" alt="" style="height: 450px; width:350px;"/>
 <br><br>
 
 ### 3.Gross Revenue per Company
