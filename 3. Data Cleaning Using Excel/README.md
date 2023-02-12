@@ -24,6 +24,6 @@ Steps taken to clean and prepare this dataset:
 
 **5. Tried to remove "" from region, country but couldn't find the right way.**
 
-[SQL Code link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/2.%20Data%20Cleaning%20Using%20SQL/Data%20Cleaning%20in%20SQL.sql)
+[Excel sheet link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/3.%20Data%20Cleaning%20Using%20Excel/Supermarket_Sales.xlsx)
 
 
