@@ -49,12 +49,12 @@ Steps taken to clean and prepare this dataset:
 
 ### 5.Total Movies per Genre
 <br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/5.%20Total%20Movies%20per%20Genre.png" alt="" style="height: 400px; width:550px;"/>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/5.%20Total%20Movies%20per%20Genre.png" alt="" style="height: 425px; width:550px;"/>
 <br><br>
 
 ### 6.Total Revenue per Genre
 <br>
-<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/6.%20Total%20Revenue%20per%20Genre.png" alt="" style="height: 150px; width:200px;"/>
+<img src="https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table/6.%20Total%20Revenue%20per%20Genre.png" alt="" style="height: 450px; width:500px;"/>
 <br><br>
 
 ### 7.Total Budget per Genre
