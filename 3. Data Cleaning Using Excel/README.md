@@ -14,16 +14,31 @@ Related information about the dataset can be found here : [Attribute Information
 ### Data Cleaning and Preparation:
 Steps taken to clean and prepare this dataset:
 
-**1. Selected everything from the dataset to get a overview of the dataset.**
+**1. Checked if there are duplicates. No duplicate was found.**
 
-**2. Renamed the column names appropriately.**
+**2. Deleted the column named 'gross margin'.**
 
-**3. Checked for duplicate values using several techniques.**
+**3. Created a new column named 'Total (without taxes)' and filled the column.**
 
-**4. Rounded airquality and waterpollution column's values to two decimal place.**
+**4. Deleted 'total (without taxes)' with equation and copied it another column with only values.**
 
-**5. Tried to remove "" from region, country but couldn't find the right way.**
+**5. Swapped diffrerent columns to make the sheet look presentable.**
 
-[Excel sheet link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/3.%20Data%20Cleaning%20Using%20Excel/Supermarket_Sales.xlsx)
+**6. Used conditional formatting to create a header for sorting..**
 
+**7. Changed every units to currency sign.**
 
+**8. Created a new column named 'Rating classes'.**
+
+**9. Filled 'Rating classes' column with data divided into three sub classes.**
+
+**10. Deleted 'total (without taxes)' with equation and copied it another column with only values.**
+
+**11. Extracted month from 'Date' column and deleted the 'Date' column.**
+
+[Excel Sheet link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/3.%20Data%20Cleaning%20Using%20Excel/Supermarket_Sales.xlsx)
+
+### Conclusion:
+After cleaning and preparing the data, I've created three pivot tables and three charts <br>
+and found that the data is equally distributed. So, I've come to the conclusion that, <br>
+this is a fake dataset. That's the reason I've only cleaned it but didn't analayzed it.
