@@ -24,6 +24,10 @@ Steps taken to clean and prepare this dataset:
 
 [Excel Sheet link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/movies.xlsx)
 <br>
+[Dashboard link](https://github.com/HasibulHayat/PortfolioProjects/tree/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Dashboard)
+<br>
+[Pivot Table link](https://github.com/HasibulHayat/PortfolioProjects/tree/main/4.%20Movie%20Industry%20Project%20Using%20Excel/Visualization/Pivot%20Table)
+<br>
 
 ### Data Analysis and Visualization:
 
