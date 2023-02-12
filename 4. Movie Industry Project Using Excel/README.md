@@ -18,27 +18,11 @@ Steps taken to clean and prepare this dataset:
 
 **1. Checked if there are duplicates. No duplicate was found.**
 
-**2. Deleted the column named 'gross margin'.**
+**2. Capitalized and changed some column names according to the data.**
 
-**3. Created a new column named 'Total (without taxes)' and filled the column.**
+**3. Divided 'Released' column into 'Released date' using delimeter.**
 
-**4. Deleted 'total (without taxes)' with equation and copied it another column with only values.**
-
-**5. Swapped diffrerent columns to make the sheet look presentable.**
-
-**6. Used conditional formatting to create a header for sorting..**
-
-**7. Changed every units to currency sign.**
-
-**8. Created a new column named 'Rating classes'.**
-
-**9. Filled 'Rating classes' column with data divided into three sub classes.**
-
-**10. Deleted 'total (without taxes)' with equation and copied it another column with only values.**
-
-**11. Extracted month from 'Date' column and deleted the 'Date' column.**
-
-[Excel Sheet link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/3.%20Data%20Cleaning%20Using%20Excel/Supermarket_Sales.xlsx)
+[Excel Sheet link](https://github.com/HasibulHayat/PortfolioProjects/blob/main/4.%20Movie%20Industry%20Project%20Using%20Excel/movies.xlsx)
 <br>
 
 ### Conclusion:
