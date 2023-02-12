@@ -1,9 +1,11 @@
 # Project Report
 
 ## Report Name : Data Cleaning Using Excel
+<br>
 
 ### Introduction:
 This project aims to clean and prepare a random datatset.
+<br>
 
 ### Data Collection:
 The data was collected from Kaggle. <br>
@@ -41,4 +43,4 @@ Steps taken to clean and prepare this dataset:
 ### Conclusion:
 After cleaning and preparing the data, I've created three pivot tables and three charts <br>
 only to found that the data is equally distributed. So, I've come to the conclusion that, <br>
-this is a fake dataset. That's the reason I've only cleaned it but didn't analayzed it.
+this is a fake dataset. That's the reason I've only cleaned it but didn't analayze it.
